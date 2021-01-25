@@ -1,0 +1,115 @@
+body
+{
+    font-family: 'Montserrat';
+    text-align:center;
+    background-image:url("back5.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   min-height:100%;
+
+}
+
+h1,h2{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size: 3.3rem;
+  font-weight: lighter;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:transparent;
+    vertical-align: middle;
+
+  }
+  
+  li {
+    float: left;
+    vertical-align: middle;
+
+  }
+
+ .name {
+    display: block;
+    color:white;
+    text-align: center;
+    font-size:5.2rem;
+    margin-left: 50px;
+    padding:16px;
+    font-family: 'Playfair Display', serif;
+
+  }
+  li a {
+    display: block;
+    font-size:1.15rem;
+    font-weight:bold;
+    color: white;
+    text-align: center;
+
+    float:right;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 16px 20px 16px 20px;
+    
+    text-decoration: none;
+  }
+
+  li a:hover {
+    
+    color:mediumpurple;
+  
+}
+
+  .navigationbar
+  {
+      float:right;
+  }
+
+.mainheading
+{
+
+    font-size:5.625rem;
+    font-weight: bold;
+}
+
+.manikpicture{
+    border-radius: 50%;
+    
+}    
+
+.description
+{
+    color:white;
+    font-weight: bold;
+
+}
+
+.row {
+  width: 100%;
+  margin: 0 auto;
+  overflow:auto;
+}
+.block {
+  width:45%;  
+  float: right;
+}
+.tables{
+  margin-left: auto;
+  margin-right: auto;
+}
+table.tables{
+  align-content: center;
+  background: transparent;
+  border: 0;
+  font-weight: bold;
+  font-size: large;
+  color: white;
+  text-align: center;
+}
+
+
+
+
